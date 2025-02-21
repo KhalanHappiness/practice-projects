@@ -22,10 +22,8 @@ header{
     padding: 10px;
     /* margin: 10px; */
 }
-header:hover{
 
-    background: purple;
-}
+
 nav{
     grid-area: nav;
     background:#6a1b9a;
